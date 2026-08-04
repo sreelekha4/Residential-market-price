@@ -1,4 +1,4 @@
-# 🏠 Residential-market-price
+# 🏠 Residential Market Price Forecast Using Machine Learning
 
 ## 📌 Overview
 This project builds a **Machine Learning model** to predict house prices based on various features such as area, number of bedrooms, and other property-related attributes.
