@@ -94,23 +94,3 @@ These visualizations help in identifying relationships between variables and pri
 
 ---
 
-## 🚀 How to Run
-
-### 1. Clone the repository
-
-```
-git clone https://github.com/Dev1822/Heart-Disease-EDA
-cd Heart-Disease-EDA
-```
-
-### 2. Install dependencies
-
-```
-pip install pandas matplotlib seaborn
-```
-
-### 3. Run the notebook
-
----
-
-Made By : https://github.com/Dev1822
