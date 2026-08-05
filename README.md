@@ -8,8 +8,8 @@ The goal is to understand **how different factors influence house prices** and c
 ---
 
 ## 📂 Dataset Information
-- **File:** `housing.csv`  
-- **Rows:** ~500+  
+- **File:** `train.csv`  
+- **Rows:** Multiple
 - **Columns:** Multiple  
 
 ### **Key Features:**
