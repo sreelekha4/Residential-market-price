@@ -93,7 +93,8 @@ The notebook includes:
 
 - Scatter plots 📉  
 - Regression plots 📈  
-- Heatmaps 🔥  
+- Heatmaps 🔥
+- and many more 
 
 These visualizations help in identifying relationships between variables and price trends.
 
